@@ -1,0 +1,1 @@
+<div class="footer text-center">Mini POS 2022</div>
